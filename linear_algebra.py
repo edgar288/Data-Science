@@ -1,3 +1,4 @@
+#This program has been created by Joel Grus
 # -*- coding: iso-8859-15 -*-
 
 from __future__ import division # want 3 / 2 == 1.5
