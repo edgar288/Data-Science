@@ -1,3 +1,4 @@
+#This program was created by Joel Grus
 from __future__ import division
 from collections import Counter
 from linear_algebra import sum_of_squares, dot
